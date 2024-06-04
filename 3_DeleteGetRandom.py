@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/insert-delete-getrandom-o1/description/
+# SUBMISSION: https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/1277075059
 
 class RandomizedSet(object):
 
