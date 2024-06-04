@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/design-linked-list/description/
+# SUBMISSION: https://leetcode.com/problems/design-linked-list/submissions/1277080478
 
 class Node:
     def __init__(self, val):
