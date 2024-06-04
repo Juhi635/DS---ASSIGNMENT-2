@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/implement-queue-using-stacks/description/
+# SUBMISSION: https://leetcode.com/problems/implement-queue-using-stacks/submissions/1275184782
 
 class MyQueue(object):
 
